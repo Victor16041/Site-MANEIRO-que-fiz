@@ -1,0 +1,138 @@
+[
+    {
+        "id": 1,
+        "nome": "Macaco",
+        "descricao": "'Ele gosta de comer Bananas'",
+        "imagem": "../Imagens/magago.jpg",
+        "categoria": "Animal",
+        "setor": "Zoológico"
+    },
+
+    {
+        "id": 2,
+        "nome": "Peter Griffin",
+        "descricao": "'Cara mais maneiro daqui'",
+        "imagem": "../Imagens/Peter_Griffin.png",
+        "categoria": "Bobão",
+        "setor": "Desenho Animado"
+    },
+
+    {
+        "id": 3,
+        "nome": "Hatsune Miku",
+        "descricao": "'Melhor cantora que existe'",
+        "imagem": "../Imagens/miku.jpg",
+        "categoria": "Cantora",
+        "setor": "Música"
+    },
+
+    {
+        "id": 4,
+        "nome": "Mc Lovin",
+        "descricao": "'O nome verdadeiro dele é Mohammed'",
+        "imagem": "../Imagens/mclovin.jpg",
+        "categoria": "Nerd",
+        "setor": "Escola"
+    },
+
+    {
+        "id": 5,
+        "nome": "Stuart little",
+        "descricao": "'Ele é muito maneiro'",
+        "imagem": "../Imagens/caramaneiro.jpg",
+        "categoria": "Gamer",
+        "setor": "Jogos"
+    },
+
+    {
+        "id": 6,
+        "nome": "Sheldon",
+        "descricao": "'Bazinga'",
+        "imagem": "../Imagens/sheldon.jpg",
+        "categoria": "Nerd Ultra",
+        "setor": "Nasa"
+    },
+
+    {
+        "id": 7,
+        "nome": "Megamente",
+        "descricao": "'Cabeçudo'",
+        "imagem": "../Imagens/megamente.jpg",
+        "categoria": "Gênio",
+        "setor": "Iraque"
+    },
+
+    {
+        "id": 8,
+        "nome": "Patricio",
+        "descricao": "'Gênio do crime'",
+        "imagem": "../Imagens/patricio.jpg",
+        "categoria": "Animal",
+        "setor": "Bobão"
+    },
+
+    {
+        "id": 9,
+        "nome": "Everson Zoio",
+        "descricao": "'Hardcore'",
+        "imagem": "../Imagens/lula.png",
+        "categoria": "Pegadinha",
+        "setor": "Iraque"
+    },
+
+    {
+        "id": 10,
+        "nome": "Goblin nem um pouco familiar",
+        "descricao": "'Ele é feio'",
+        "imagem": "../Imagens/goblin.png",
+        "categoria": "Maneiro",
+        "setor": "Zoológico"
+    },
+
+    {
+        "id": 11,
+        "nome": "Osaka",
+        "descricao": "'SATA ANDAGIIIIIIIII'",
+        "imagem": "../Imagens/osaka.jpg",
+        "categoria": "Melhor de Todas",
+        "setor": "Sata Andagi"
+    },
+
+    {
+        "id": 12,
+        "nome": "Yuuri",
+        "descricao": "'Sobrevivente do Apocalipse'",
+        "imagem": "../Imagens/yuuri.jpg",
+        "categoria": "Épica",
+        "setor": "Guerra"
+    },
+
+    {
+        "id": 13,
+        "nome": "Chito",
+        "descricao": "'Outra sobrevivente do Apocalipse'",
+        "imagem": "../Imagens/chito.jpg",
+        "categoria": "Épica",
+        "setor": "Guerra"
+    },
+
+    {
+        "id": 14,
+        "nome": "Homer da Akatsuki",
+        "descricao": "'O mais forte entre eles'",
+        "imagem": "../Imagens/homer.jpg",
+        "categoria": "Melhor de Todos",
+        "setor": "Desenho Animado"
+    },
+
+    {
+        "id": 15,
+        "nome": "da Morte",
+        "descricao": "'Melhor escritor de musicas'",
+        "imagem": "../Imagens/daMorte.png",
+        "categoria": "Cantor",
+        "setor": "Música"
+    }
+
+    
+]
